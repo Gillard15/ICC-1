@@ -153,7 +153,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: 'https://leonardoloayza.github.io/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
