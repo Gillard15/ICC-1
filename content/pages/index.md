@@ -66,6 +66,7 @@ sections:
     projects:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/1.md
     styles:
       self:
         height: auto
