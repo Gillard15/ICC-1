@@ -15,9 +15,15 @@ sections:
     backgroundSize: full
     title: IVO MANUEL NUÑONCA MEZA
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Soy un estudiante apasionado de la Ciencia de la Computación en la
+      Universidad Católica de San Pablo. Me fascina el desarrollo de software y
+      la creación de soluciones tecnológicas innovadoras. Mi enfoque actual está
+      en la programación con C++, mientras exploro nuevas posibilidades con
+      Python.Durante mi trayectoria académica, he participado en diversos
+      proyectos que fusionan creatividad y lógica, desarrollando desde
+      videojuegos hasta sistemas de gestión y análisis de datos. Mi meta es
+      continuar mi desarrollo profesional como programador, enfocándome en crear
+      soluciones eficientes y valiosas para el entorno digital.
     styles:
       self:
         height: auto
