@@ -88,7 +88,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: COMPAÑEROS DE GRUPO
+    subtitle: ''
     title: COMPAÑEROS DE GRUPO
   - type: FeaturedPostsSection
     elementId: ''
