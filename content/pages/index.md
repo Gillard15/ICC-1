@@ -135,7 +135,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Compañert
+    title: Compañeros de grupo
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
