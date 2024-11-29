@@ -155,5 +155,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitle: 'Leonardo Andre: https://leonardoloayza.github.io/'
+    subtitle: Leonardo Andre
 ---
