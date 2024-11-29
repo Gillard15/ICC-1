@@ -132,4 +132,84 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: FeaturedItemsSection
+    title: Compañeros de grupo
+    items:
+      - type: FeaturedItem
+        title: Leonardo Andre
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: 'https://leonardoloayza.github.io/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Diego Miguel
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: 'https://diegocalancho.github.io/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Bryan Lepoldo
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: >-
+              https://lolofer321.github.io/Bryan-Leopoldo-Huanatico-Mamani.github.io/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
