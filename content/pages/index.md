@@ -164,7 +164,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: 'https://diegocalancho.github.io/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
