@@ -89,6 +89,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: COMPAÑEROS DE GRUPO
+    title: COMPAÑEROS DE GRUPO
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
