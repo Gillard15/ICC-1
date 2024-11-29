@@ -19,7 +19,7 @@ sections:
       Universidad Católica de San Pablo. Me fascina el desarrollo de software y
       la creación de soluciones tecnológicas innovadoras. Mi enfoque actual está
       en la programación con C++, mientras exploro nuevas posibilidades con
-      Python.Durante mi trayectoria académica, he participado en diversos
+      Python. Durante mi trayectoria académica, he participado en diversos
       proyectos que fusionan creatividad y lógica, desarrollando desde
       videojuegos hasta sistemas de gestión y análisis de datos. Mi meta es
       continuar mi desarrollo profesional como programador, enfocándome en crear
