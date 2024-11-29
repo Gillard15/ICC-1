@@ -136,7 +136,7 @@ sections:
     title: Compañeros de grupo
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Leonardo Andre
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
