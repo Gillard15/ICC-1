@@ -179,7 +179,8 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: >-
+              https://lolofer321.github.io/Bryan-Leopoldo-Huanatico-Mamani.github.io/
             showIcon: true
             icon: arrowRight
             iconPosition: right
