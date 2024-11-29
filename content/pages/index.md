@@ -133,7 +133,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Compañeros de grupo
     items:
       - type: FeaturedItem
         title: I'm Fast
