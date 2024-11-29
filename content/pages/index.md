@@ -146,7 +146,7 @@ sections:
             url: 'https://leonardoloayza.github.io/'
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         elementId: ''
