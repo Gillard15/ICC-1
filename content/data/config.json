@@ -37,7 +37,8 @@
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "altText": "Netlify templates",
+                "iconPosition": "left"
             },
             {
                 "type": "Button",
